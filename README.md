@@ -6,8 +6,7 @@ Build a profitable AI chatbot in a weekend using TinyLlama and Streamlit - no AI
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/🤗%20Transformers-4.34+-FFD21E?style=flat)](https://huggingface.co/transformers/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat&logo=apache&logoColor=white)](LICENSE)
-[![Colab](https://img.shields.io/badge/Open%20In-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/YOUR-USERNAME/tinyllama-chatbot/blob/main/colab_chatbot.ipynb)
+[![Colab](https://img.shields.io/badge/Open%20In-Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1wSltqulVdklgYElzFS3_CZZLz8rkFlh0?usp=sharing)
 
 ---
 
@@ -15,7 +14,7 @@ Build a profitable AI chatbot in a weekend using TinyLlama and Streamlit - no AI
 
 **Want to skip the setup? Click here to run instantly in Google Colab:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/tinyllama-chatbot/blob/main/colab_chatbot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSltqulVdklgYElzFS3_CZZLz8rkFlh0?usp=sharing)
 
 **Local Setup (5 minutes):**
 ```bash
@@ -40,9 +39,6 @@ streamlit run chatbot_app.py  # Web UI version
 - [ Performance](#-performance)
 - [ Architecture](#️-architecture)
 - [ Customization](#-customization)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-
 ---
 
 ## 🎯 What This Is
@@ -134,7 +130,7 @@ Accelerate >= 0.20.0
 ### **Option 1: Google Colab (Recommended for beginners)**
 
 Click here for zero-setup experience:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/tinyllama-chatbot/blob/main/colab_chatbot.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSltqulVdklgYElzFS3_CZZLz8rkFlh0?usp=sharing)
 
 ### **Option 2: Local Installation**
 
@@ -394,26 +390,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - **[TinyLlama Team](https://github.com/jzhang38/TinyLlama)** - For the amazing compact language model
 - **[Hugging Face](https://huggingface.co/)** - For the transformers library and model hosting
 - **[Streamlit](https://streamlit.io/)** - For the incredible web app framework
-- **Community Contributors** - For testing, feedback, and improvements
-
----
-
-##  Support & Community
-
-- ** Issues:** [GitHub Issues](https://github.com/YOUR-USERNAME/tinyllama-chatbot/issues)
-- ** Discussions:** [GitHub Discussions](https://github.com/YOUR-USERNAME/tinyllama-chatbot/discussions)
-- ** Email:** your-email@domain.com
-- ** Twitter:** [@your-handle](https://twitter.com/your-handle)
-
----
-
-## 📈 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/tinyllama-chatbot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/tinyllama-chatbot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/tinyllama-chatbot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR-USERNAME/tinyllama-chatbot)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/tinyllama-chatbot)
 
 ---
 
