@@ -10,11 +10,18 @@ Build a profitable AI chatbot in a weekend using TinyLlama and Streamlit - no AI
 
 ---
 
-##  **TLDR - Try It Now!**
+##  **TLDR - **
+# For Full AI Solution 
+- Clone the streamlit app folder in your system
+- Create a virtual Environment and install packages there
+- Run chatbot_app.py
 
+# For instant Testing                         
 **Want to skip the setup? Click here to run instantly in Google Colab:**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wSltqulVdklgYElzFS3_CZZLz8rkFlh0?usp=sharing)
+
+
 
 **Local Setup (5 minutes):**
 ```bash
