@@ -25,22 +25,6 @@ python colab_script.py  # CLI version
 # OR
 streamlit run chatbot_app.py  # Web UI version
 ```
-
----
-
-## Table of Contents
-
-- [ What This Is](#-what-this-is)
-- [ Features](#-features) 
-- [ Tech Stack](#️-tech-stack)
-- [ Requirements](#-requirements)
-- [ Quick Start](#-quick-start)
-- [ Business Applications](#-business-applications)
-- [ Performance](#-performance)
-- [ Architecture](#️-architecture)
-- [ Customization](#-customization)
----
-
 ## 🎯 What This Is
 
 A complete implementation of a **local AI chatbot** using TinyLlama-1.1B that:
@@ -366,11 +350,6 @@ We welcome contributions! Here's how to get started:
 -  **Internationalization:** Multi-language support
 -  **Analytics:** Usage tracking and insights
 
----
-
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ### **Commercial Use**
 - ✅ Use for commercial projects
@@ -393,4 +372,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-**Built with ❤️ for the AI community | Start your chatbot journey today!**
+**Built with ❤️ for the AI community! Keep learning, Keep growing!**
